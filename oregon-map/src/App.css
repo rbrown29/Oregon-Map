@@ -102,3 +102,58 @@ h1 {
   }
 }
 
+/* Mobile styles */
+@media (max-width: 768px) {
+  /* Adjust the map height on mobile */
+  .map-container {
+    height: 80vh;
+  }
+
+  /* Smaller font size for the title */
+  h1 {
+    font-size: 32px;
+    margin: 10px 0;
+  }
+
+  /* Popup styling adjustments for mobile */
+  .mapboxgl-popup-content {
+    padding: 10px;
+    max-width: 160px;
+  }
+
+  .mapboxgl-popup-content h3 {
+    font-size: 1em;
+  }
+
+  .mapboxgl-popup-content p {
+    font-size: 0.9em;
+  }
+
+  .popup-image {
+    margin-top: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Further adjustments for very small screens */
+  h1 {
+    font-size: 28px;
+  }
+
+  .mapboxgl-popup-content {
+    padding: 8px;
+    max-width: 140px;
+  }
+
+  .mapboxgl-popup-content h3 {
+    font-size: 0.9em;
+  }
+
+  .mapboxgl-popup-content p {
+    font-size: 0.8em;
+  }
+
+  .popup-image {
+    margin-top: 4px;
+  }
+}

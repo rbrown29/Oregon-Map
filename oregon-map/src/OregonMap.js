@@ -10,10 +10,12 @@ import Map, {
 import "mapbox-gl/dist/mapbox-gl.css";
 
 const OregonMap = () => {
+    const isMobile = window.innerWidth < 768;
+    const initialZoom = isMobile ? 5 : 6.5;
   const [viewState, setViewState] = useState({
     latitude: 43.8041,
     longitude: -120.5542,
-    zoom: 6.5,
+    zoom: initialZoom,
   });
   const [selectedLocation, setSelectedLocation] = useState(null);
 
@@ -231,7 +233,7 @@ const OregonMap = () => {
           >
             <div className="marker">
               <img
-                src="https://img.icons8.com/emoji/48/000000/mountain-emoji.png"
+                src="https://icons.iconarchive.com/icons/icons-land/vista-map-markers/48/Map-Marker-Marker-Inside-Chartreuse-icon.png"
                 alt={place.name}
               />
             </div>
