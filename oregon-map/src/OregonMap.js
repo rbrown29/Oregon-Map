@@ -10,8 +10,8 @@ import Map, {
 import "mapbox-gl/dist/mapbox-gl.css";
 
 const OregonMap = () => {
-    const isMobile = window.innerWidth < 768;
-    const initialZoom = isMobile ? 5 : 6.5;
+  const isMobile = window.innerWidth < 768;
+  const initialZoom = isMobile ? 5 : 6.7;
   const [viewState, setViewState] = useState({
     latitude: 43.8041,
     longitude: -120.5542,
@@ -208,6 +208,24 @@ const OregonMap = () => {
         "https://www.hikingproject.com/trail/7022469/eagle-creek-trail-to-tunnel-falls",
       TerrainUrl: "https://cute-mermaid-e88a57.netlify.app/",
     },
+    {
+        id: 21, 
+        name: "Multnomah-Wahkeena Loop Hike",
+        latitude: 45.57893,
+        longitude: -122.11841,
+        imageUrl: "https://www.oregonhikers.org/w/images/d/da/Ecola1.JPG",
+        infoUrl: "https://www.oregonhikers.org/field_guide/Multnomah-Wahkeena_Loop_Hike",
+        TerrainUrl: "https://spontaneous-marigold-692813.netlify.app/",
+    },
+    {
+        id: 22, 
+        name: "Mirror Lake Trail",
+        latitude: 45.30277,
+        longitude: -121.77728,
+        imageUrl: "https://www.oregonhikers.org/w/images/e/e8/MirrorLakeAlpenglow.jpg",
+        infoUrl: "https://www.oregonhikers.org/field_guide/Mirror_Lake_Hike",
+        TerrainUrl:"https://gleeful-custard-b20765.netlify.app/",
+    }
   ];
 
   return (
@@ -233,7 +251,7 @@ const OregonMap = () => {
           >
             <div className="marker">
               <img
-                src="https://icons.iconarchive.com/icons/icons-land/vista-map-markers/48/Map-Marker-Marker-Inside-Chartreuse-icon.png"
+                src="/icons8-place-marker-96.png"
                 alt={place.name}
               />
             </div>
