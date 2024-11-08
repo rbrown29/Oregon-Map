@@ -140,6 +140,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/a/af/Sunrise_Cove_01_1000px.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Sunrise_Cove_Hike",
+      TerrainUrl: "https://unique-biscuit-f7a41d.netlify.app/",
     },
     {
       id: 14,
