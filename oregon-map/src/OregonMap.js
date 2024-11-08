@@ -28,6 +28,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/3/37/Bright_Cove_South_View_1000px.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Bright_Cove_Trailhead",
+      TerrainUrl: "https://effulgent-crisp-a9b876.netlify.app/",
     },
     {
       id: 2,
