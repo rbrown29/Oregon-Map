@@ -66,3 +66,5 @@ You can embed this app on other websites using an `<iframe>`. After deployment, 
 ### Demo
 
 [Oregon Interactive Map](https://timely-scone-7b792f.netlify.app/)
+
+![Oregon Interactive Map](exploreOregon.png)
