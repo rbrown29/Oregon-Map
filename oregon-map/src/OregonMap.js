@@ -160,6 +160,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/thumb/f/f9/Palisades_above_the_Owyhee%2C_Colorful_Canyon%2C_Chalk_Basin.jpg/800px-Palisades_above_the_Owyhee%2C_Colorful_Canyon%2C_Chalk_Basin.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Chalk_Basin_Loop_Hike",
+      TerrainUrl: "https://incandescent-marzipan-f2b2a3.netlify.app/",
     },
     {
       id: 16,
