@@ -49,6 +49,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/f/fa/ArchCapeShortSand3.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Arch_Cape_to_Short_Sand_Beach_Hike",
+        TerrainUrl: "https://ubiquitous-starlight-b174ca.netlify.app/",
     },
     {
       id: 4,
