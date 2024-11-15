@@ -60,6 +60,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/6/6c/Mt._St._Helens_from_Sheep_Canyon.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Butte_Camp_Dome_Loop_Hike",
+        TerrainUrl: "https://sprightly-fudge-820045.netlify.app/",
     },
     {
       id: 5,
