@@ -70,6 +70,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/thumb/a/a6/Council_Crest_Eastern_View.jpg/800px-Council_Crest_Eastern_View.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Council_Crest_Hike",
+      TerrainUrl: "https://exquisite-sopapillas-6ca7d6.netlify.app/",
     },
     {
       id: 6,
