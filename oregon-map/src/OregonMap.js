@@ -91,6 +91,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/a/a9/Mt._Rainier_from_Coldwater_Peak.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Coldwater_Peak_Hike",
+        TerrainUrl: "https://deft-baklava-96c80e.netlify.app/",
     },
     {
       id: 8,
