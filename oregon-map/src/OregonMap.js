@@ -81,6 +81,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/thumb/1/15/Cook_and_Green%2C_Red_Buttes%2C_Kangaroo_from_Da-Ku-Be-Te-De_Trail%2C_Applegate_Lake.jpg/800px-Cook_and_Green%2C_Red_Buttes%2C_Kangaroo_from_Da-Ku-Be-Te-De_Trail%2C_Applegate_Lake.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Da-Ku-Be-Te-De_Trail_Hike",
+        TerrainUrl: "https://peppy-peony-cbe23a.netlify.app/",
     },
     {
       id: 7,
