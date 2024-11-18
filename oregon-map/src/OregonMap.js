@@ -49,7 +49,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/f/fa/ArchCapeShortSand3.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Arch_Cape_to_Short_Sand_Beach_Hike",
-        TerrainUrl: "https://ubiquitous-starlight-b174ca.netlify.app/",
+      TerrainUrl: "https://ubiquitous-starlight-b174ca.netlify.app/",
     },
     {
       id: 4,
@@ -60,7 +60,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/6/6c/Mt._St._Helens_from_Sheep_Canyon.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Butte_Camp_Dome_Loop_Hike",
-        TerrainUrl: "https://sprightly-fudge-820045.netlify.app/",
+      TerrainUrl: "https://sprightly-fudge-820045.netlify.app/",
     },
     {
       id: 5,
@@ -81,26 +81,27 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/thumb/1/15/Cook_and_Green%2C_Red_Buttes%2C_Kangaroo_from_Da-Ku-Be-Te-De_Trail%2C_Applegate_Lake.jpg/800px-Cook_and_Green%2C_Red_Buttes%2C_Kangaroo_from_Da-Ku-Be-Te-De_Trail%2C_Applegate_Lake.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Da-Ku-Be-Te-De_Trail_Hike",
-        TerrainUrl: "https://peppy-peony-cbe23a.netlify.app/",
+      TerrainUrl: "https://peppy-peony-cbe23a.netlify.app/",
     },
     {
       id: 7,
-      name: "Coldwater Peak Hike",
-      latitude: 46.27757,
-      longitude: -122.21603,
+      name: "Cold water Peak Hike",
+      latitude: 46.29978,
+      longitude: -122.18183,
       imageUrl:
         "https://www.oregonhikers.org/w/images/a/a9/Mt._Rainier_from_Coldwater_Peak.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Coldwater_Peak_Hike",
-        TerrainUrl: "https://deft-baklava-96c80e.netlify.app/",
+      TerrainUrl: "https://deft-baklava-96c80e.netlify.app/",
     },
     {
       id: 8,
       name: "Eagle Lake Hike",
       latitude: 45.06799,
-      longitude: -117.40668,
+      longitude: -117.3412,
       imageUrl:
         "https://www.oregonhikers.org/w/images/thumb/3/3f/View_over_Eagle_Lake%2C_Wallowas.jpg/800px-View_over_Eagle_Lake%2C_Wallowas.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Eagle_Lake_Hike",
+      TerrainUrl: "https://fancy-mousse-623962.netlify.app/",
     },
     {
       id: 9,
