@@ -120,6 +120,7 @@ const OregonMap = () => {
       imageUrl: "https://www.oregonhikers.org/w/images/f/f0/ElkCoveView.jpg",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Elk_Cove_from_Cloud_Cap_Hike",
+      TerrainUrl: "https://chic-starship-424c76.netlify.app/",
     },
     {
       id: 11,
