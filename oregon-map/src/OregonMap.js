@@ -111,6 +111,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/7/7e/Capelookoutview.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Cape_Lookout_Hike",
+      TerrainUrl: "https://merry-fox-349c39.netlify.app/",
     },
     {
       id: 10,
