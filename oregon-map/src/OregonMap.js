@@ -411,7 +411,7 @@ const OregonMap = () => {
                   window.open(selectedLocation.TerrainUrl, "_blank")
                 }
               >
-                3d Terrain Elevation Map
+                Trail Walkthrough
               </p>
             </div>
           </Popup>
