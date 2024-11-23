@@ -131,7 +131,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/0/0a/Fort_Rock_from_the_highway.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Fort_Rock_Loop_Hike",
-        TerrainUrl: "https://peppy-cascaron-acba82.netlify.app/",
+      TerrainUrl: "https://peppy-cascaron-acba82.netlify.app/",
     },
     {
       id: 12,
@@ -141,6 +141,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/4/44/View_to_Mt._Adams_over_Spirit_Lake%2C_Harrys_Ridge.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Harrys_Ridge_Hike",
+      TerrainUrl: "https://preeminent-cactus-2b0e04.netlify.app/",
     },
     {
       id: 13,
