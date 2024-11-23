@@ -131,6 +131,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/0/0a/Fort_Rock_from_the_highway.jpg",
       infoUrl: "https://www.oregonhikers.org/field_guide/Fort_Rock_Loop_Hike",
+        TerrainUrl: "https://peppy-cascaron-acba82.netlify.app/",
     },
     {
       id: 12,
