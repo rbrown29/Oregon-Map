@@ -182,6 +182,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/thumb/8/89/CapeFWVP1.JPG/500px-CapeFWVP1.JPG",
       infoUrl: "https://www.oregonhikers.org/field_guide/Cape_Foulweather_Hike",
+      TerrainUrl: "https://stalwart-baklava-f59dc3.netlify.app/",
     },
     {
       id: 17,
