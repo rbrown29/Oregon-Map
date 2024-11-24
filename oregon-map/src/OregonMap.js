@@ -162,6 +162,7 @@ const OregonMap = () => {
         "https://www.oregonhikers.org/w/images/thumb/c/cc/Timberlinenofparadise.JPG/800px-Timberlinenofparadise.JPG",
       infoUrl:
         "https://www.oregonhikers.org/field_guide/Paradise_Park_via_the_Sandy_River_Hike",
+      TerrainUrl: "https://taupe-frangipane-020728.netlify.app",
     },
     {
       id: 15,
