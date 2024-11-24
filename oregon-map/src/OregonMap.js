@@ -192,6 +192,7 @@ const OregonMap = () => {
       imageUrl:
         "https://www.oregonhikers.org/w/images/thumb/2/2d/DP_summit.JPG/800px-DP_summit.JPG",
       infoUrl: "https://www.oregonhikers.org/field_guide/Devils_Peak_Loop_Hike",
+      TerrainUrl: "https://spontaneous-yeot-889270.netlify.app/",
     },
     {
       id: 18,
